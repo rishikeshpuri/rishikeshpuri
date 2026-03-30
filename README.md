@@ -32,7 +32,6 @@ I specialize in:
 • Authentication & identity systems  
 • AI developer tooling  
 • High-performance frontend systems  
-• Distributed backend systems  
 
 ---
 
