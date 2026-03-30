@@ -1,122 +1,179 @@
-## Hi I'm Rishikesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm Rishikesh Puri 👋</h1>
+<h3 align="center">Senior Software Engineer • Large Scale Systems • AI Engineering</h3>
 
-I'm **Rishikesh Puri**, a Software Engineer with 4+ years of experience building **large-scale web platforms, authentication systems, and AI-powered engineering tools**.
+<p align="center">
+Building high-scale platforms used by millions of users worldwide.
+</p>
 
-Currently working at **Walmart** where I help build and scale global identity infrastructure serving **100M+ users**.
-
-I enjoy designing scalable systems, solving complex problems, and building products that impact millions of users.
-
----
-
-## 🚀 About Me
-
-- 💼 Software Engineer at **Walmart**
-- 🧠 Working on **large-scale authentication & identity systems**
-- ⚡ Experience scaling platforms used by **100M+ users**
-- 🤖 Building **AI-powered developer tools and fraud detection systems**
-- 🏗 Strong focus on **system design, performance, and distributed systems**
-- 🏸 State-level **Badminton Player**
-- 🌍 Interested in opportunities in **US / Europe / Global tech companies**
-
----
-
-## 📬 Reach Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rishikesh_Puri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-puri-4739ba14a/)
-[![Gmail Badge](https://img.shields.io/badge/-rishikesh.puri96@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishikesh.puri96@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-rishi021995-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishi021995/)
+<p align="center">
+<a href="https://www.linkedin.com/in/rishikesh-puri-4739ba14a/">
+<img src="https://img.shields.io/badge/LinkedIn-Rishikesh_Puri-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:rishikesh.puri96@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/rishikeshpuri">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
-# 🧠 What I Work On
+# 🚀 About Me
 
-• Scalable Frontend Architecture  
-• Distributed Systems  
-• Identity & Authentication Platforms  
-• AI Engineering Tools  
-• High-scale Data Migrations  
-• Performance Optimization  
+Software Engineer with **4+ years of experience** building large-scale distributed systems, authentication platforms, and AI-powered developer tools.
+
+Currently working at **Walmart** developing **global identity infrastructure serving 100M+ users**.
+
+I specialize in:
+
+• Large-scale system architecture  
+• Authentication & identity systems  
+• AI developer tooling  
+• High-performance frontend systems  
+• Distributed backend systems  
+
+---
+
+# 🏗 What I'm Currently Building
+
+- Global identity platform at scale
+- AI-powered debugging and engineering tools
+- Fraud detection systems using vector search + transformers
+- Developer productivity platforms
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
+## Languages
 JavaScript • TypeScript • Python
 
-### Frontend
-React • Next.js • Redux • HTML • CSS
+## Frontend
+React • Next.js • Redux • Performance Optimization
 
-### Backend / APIs
-Node.js • GraphQL • REST APIs
+## Backend
+Node.js • Distributed Systems • GraphQL • REST APIs
 
-### Databases
-PostgreSQL • MongoDB • SQL • Vector DB (Milvus)
+## Databases
+PostgreSQL • MongoDB • SQL • Vector Databases (Milvus)
 
-### AI / ML
-LangChain • RAG • Hugging Face • OpenAI APIs • TensorFlow • PyTorch
+## AI Engineering
+LangChain • RAG • OpenAI APIs • Hugging Face • TensorFlow • PyTorch
 
-### Engineering
-System Design • Observability • Scalability • Authentication Systems
-
----
-
-# 🏗 Key Work
-
-### Walmart — Identity Platform
-- Scaled authentication infrastructure serving **100M+ users globally**
-- Built secure credential & session management systems
-- Migrated **700M+ user identities** with zero downtime
-- Developed **AI-powered fraud detection system**
-- Built internal **AI debugging platform** to analyze production logs
-
-### Healthcare Platform (Sugar.fit / DocsApp)
-- Improved performance of a system managing **10M+ patient records**
-- Built analytics dashboards for doctors
-- Implemented product analytics to improve engagement
+## Architecture
+System Design • Scalability • Observability • Security
 
 ---
 
-# 🚀 Projects
+# 💼 Professional Experience
 
-### Voice Driven AI IDE
-AI-powered development environment that allows developers to code using voice and natural language prompts.
+## Walmart — Software Engineer III
 
-### Car Racing Web Game
-Browser-based game built using modern JavaScript and frontend architecture.
+Building Walmart's **global authentication and identity platform**
 
----
+Impact:
 
-# 📊 GitHub Stats
-
-![Rishikesh Puri github stats](https://github-readme-stats.vercel.app/api?username=rishikeshpuri&count_private=true&show_icons=true&theme=tokyonight)
-
----
-
-# 🎯 My Values
-
-- Building technology that scales
-- Writing clean and maintainable code
-- Continuous learning
-- Open source collaboration
-- High ownership mindset
+• Scaled infrastructure supporting **100M+ users globally**  
+• Migrated **700M+ identities with zero downtime**  
+• Built **AI fraud detection platform**  
+• Designed secure authentication architecture  
+• Improved reliability of high-scale frontend identity workflows  
 
 ---
 
-<details>
-<summary>More about me</summary>
+## Sugar.fit (Cult.fit) — Software Engineer
 
-A passionate engineer who loves building impactful products and solving complex engineering challenges.
+Worked on healthcare platform managing **10M+ patient records**
 
-I enjoy working on:
-- Large-scale systems
-- AI-powered developer tools
-- Frontend architecture
-- Distributed systems
+Impact:
 
-Outside tech:
-- Sports
-- Travel
-- Learning new technologies
+• Improved platform performance and scalability  
+• Built analytics dashboards for doctors  
+• Implemented product analytics system  
 
-</details>
+---
+
+# 🔥 Highlight Projects
+
+## AI Voice Coding IDE
+AI-powered IDE enabling developers to write and execute code using voice and natural language.
+
+Tech:
+Speech-to-text • GPT APIs • Code execution engine
+
+---
+
+## AI Production Debugger
+Internal AI system that analyzes logs and automatically identifies failing APIs.
+
+Tech:
+RAG • LangGraph • Vector Search
+
+---
+
+## Car Racing Web Game
+Interactive browser game built using modern JavaScript architecture.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rishikeshpuri&show_icons=true&theme=tokyonight&count_private=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshpuri&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshpuri&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Engineering Focus
+
+Areas I love working in:
+
+• Distributed Systems  
+• Identity & Authentication Platforms  
+• AI Engineering Tools  
+• Large Scale Data Migration  
+• High-performance Web Apps  
+• Developer Productivity Systems  
+
+---
+
+# 🏆 Achievements
+
+🏸 State-Level Badminton Player  
+👨‍🏫 Volunteered teaching coding to students  
+🚀 Built systems used by millions of users  
+
+---
+
+# 🌍 Career Goals
+
+Working toward building **global-scale platforms** and contributing to **next-generation AI engineering systems**.
+
+Open to opportunities in:
+- US
+- Europe
+- High-impact global engineering teams
+
+---
+
+# 🤝 Let's Connect
+
+LinkedIn  
+Email  
+GitHub  
+
+Always open to discussing:
+- System Design
+- Engineering Leadership
+- Scaling Platforms
+- AI Systems
