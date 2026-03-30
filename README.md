@@ -1,100 +1,122 @@
 ## Hi I'm Rishikesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Rishikesh Puri a Full Stack Web Developer. I Spend most of time coding outstanding projects or learning new technology.
+I'm **Rishikesh Puri**, a Software Engineer with 4+ years of experience building **large-scale web platforms, authentication systems, and AI-powered engineering tools**.
 
-:mailbox: Reach me out!
+Currently working at **Walmart** where I help build and scale global identity infrastructure serving **100M+ users**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rishikesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-puri-4739ba14a/) [![Mail Badge](https://img.shields.io/badge/-@rishikesh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishi021995/) [![Mail Badge](https://img.shields.io/badge/-rishikesh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishikesh0296@gmail.com)
+I enjoy designing scalable systems, solving complex problems, and building products that impact millions of users.
 
-<!-- TODO: Add last video link -->
+---
 
-## My values
+## 🚀 About Me
 
-- 🔭 Passionate about making open source more accessible.
-- 🧑‍💻I enjoy working with includes MERN technologies. 
-- 😄 Expression as authentic self
-- 🤞 Safety and trust.
-- 🍏 Beginner's mindset and curiosity.
-- 💟 Shared understanding and consensus
-- ⚡ Fun fact: I play games and I am a national level  Badminton player.
--  📫 How to reach me: rishikesh0296@gmail.com.
+- 💼 Software Engineer at **Walmart**
+- 🧠 Working on **large-scale authentication & identity systems**
+- ⚡ Experience scaling platforms used by **100M+ users**
+- 🤖 Building **AI-powered developer tools and fraud detection systems**
+- 🏗 Strong focus on **system design, performance, and distributed systems**
+- 🏸 State-level **Badminton Player**
+- 🌍 Interested in opportunities in **US / Europe / Global tech companies**
 
-#### Top Technologies
+---
 
-<!-- TODO: Make technologies links takes you to repositories -->
+## 📬 Reach Me
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Expressjs Badge](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Linkedin Badge](https://img.shields.io/badge/-Rishikesh_Puri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-puri-4739ba14a/)
+[![Gmail Badge](https://img.shields.io/badge/-rishikesh.puri96@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishikesh.puri96@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-rishi021995-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishi021995/)
 
-### Skills
+---
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+# 🧠 What I Work On
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+• Scalable Frontend Architecture  
+• Distributed Systems  
+• Identity & Authentication Platforms  
+• AI Engineering Tools  
+• High-scale Data Migrations  
+• Performance Optimization  
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+---
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+# ⚡ Tech Stack
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### Languages
+JavaScript • TypeScript • Python
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+### Frontend
+React • Next.js • Redux • HTML • CSS
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+### Backend / APIs
+Node.js • GraphQL • REST APIs
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+### Databases
+PostgreSQL • MongoDB • SQL • Vector DB (Milvus)
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+### AI / ML
+LangChain • RAG • Hugging Face • OpenAI APIs • TensorFlow • PyTorch
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+### Engineering
+System Design • Observability • Scalability • Authentication Systems
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+---
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+# 🏗 Key Work
 
-<br />
-<br />
+### Walmart — Identity Platform
+- Scaled authentication infrastructure serving **100M+ users globally**
+- Built secure credential & session management systems
+- Migrated **700M+ user identities** with zero downtime
+- Developed **AI-powered fraud detection system**
+- Built internal **AI debugging platform** to analyze production logs
 
-#### Bizness
-<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-- :email: rishikesh0296@gmail.com
+### Healthcare Platform (Sugar.fit / DocsApp)
+- Improved performance of a system managing **10M+ patient records**
+- Built analytics dashboards for doctors
+- Implemented product analytics to improve engagement
 
+---
 
-<!-- #### Profile Visits 
+# 🚀 Projects
 
+### Voice Driven AI IDE
+AI-powered development environment that allows developers to code using voice and natural language prompts.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rishikeshpuri.rishikeshpuri) -->
+### Car Racing Web Game
+Browser-based game built using modern JavaScript and frontend architecture.
+
+---
+
+# 📊 GitHub Stats
+
+![Rishikesh Puri github stats](https://github-readme-stats.vercel.app/api?username=rishikeshpuri&count_private=true&show_icons=true&theme=tokyonight)
+
+---
+
+# 🎯 My Values
+
+- Building technology that scales
+- Writing clean and maintainable code
+- Continuous learning
+- Open source collaboration
+- High ownership mindset
+
+---
 
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary>More about me</summary>
 
-<br >
+A passionate engineer who loves building impactful products and solving complex engineering challenges.
 
-A smart techie who loves developing FullStack applications and has the capability to architect and design applications from scratch on technology with creative innovation. Self-motivated and can work in fast-pace environment devising a better problem-solving method for challenging tasks, and learning new technologies.
+I enjoy working on:
+- Large-scale systems
+- AI-powered developer tools
+- Frontend architecture
+- Distributed systems
 
-I mainly work on these technologies:
-
-1. JavaScript
-2. React
-3. NodeJs
-4. ExpressJs
-5. MongoDb
-6. Python
-
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Rishikesh Puri github stats](https://github-readme-stats.vercel.app/api?username=rishikeshpuri&count_private=true&theme=tokyonight&hide=contribs,prs)
+Outside tech:
+- Sports
+- Travel
+- Learning new technologies
 
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
